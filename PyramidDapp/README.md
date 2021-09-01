@@ -36,7 +36,11 @@ div2- division function, returns (number/2+reminder, number/2).
 
 
 How to start the pyramid:
+
 Enter pyramidDapp, 
+
 Terminal: npm install
+
 npx hardhat run .\scripts\deploy.js --network kovan
+
 npm start
