@@ -35,6 +35,9 @@ mint- mint function.
 div2- division function, returns (number/2+reminder, number/2).
 
 
+
+
+
 How to start the pyramid:
 
 Enter pyramidDapp, 
